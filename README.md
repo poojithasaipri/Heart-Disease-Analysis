@@ -1,4 +1,4 @@
-# ❤️ Heart Disease Prediction using Machine Learning
+# Heart Disease Prediction using Machine Learning
 
 This project aims to predict the likelihood of heart disease using multiple machine learning models trained on the StatLog (Heart) dataset. It is designed to support early diagnosis and reduce clinical risk using data-driven insights.
 
@@ -19,7 +19,7 @@ This project aims to predict the likelihood of heart disease using multiple mach
 - **Features:** 13 attributes related to age, sex, blood pressure, cholesterol, chest pain, etc.
 - **Target:** Presence (1) or absence (0) of heart disease.
 
-## 🧠 Models Used
+## Models Used
 
 | Model              | Accuracy |
 |-------------------|----------|
@@ -42,7 +42,7 @@ This project aims to predict the likelihood of heart disease using multiple mach
 - Confusion matrices
 - ROC curves
 
-## 🛠 Features
+##  Features
 
 - Preprocessing using:
   - KNN Imputation for missing values
